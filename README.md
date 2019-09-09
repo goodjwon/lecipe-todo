@@ -1,5 +1,10 @@
 # todo
 
+## development setup
+```
+npm install -g @vue/cli
+```
+...
 ## Project setup
 ```
 npm install
